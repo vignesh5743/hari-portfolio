@@ -1,3 +1,21 @@
+# Before Start Install Required Packages
+
+npx create-react-app ./
+
+npm install -D tailwindcss
+
+npx tailwindcss init
+
+npm start
+
+npm install react-type-animation
+
+npm install react-icons
+
+text to replace in tailwind.css: 
+content: ["./src/**/*.{html,js,jsx}"],
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
