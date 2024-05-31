@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hari-portfolio/static/css/main.6b4cf97c.css",
+    "main.js": "/hari-portfolio/static/js/main.757e27a8.js",
+    "static/media/bb1.png": "/hari-portfolio/static/media/bb1.cd8c8abe8f01dd12efa4.png",
+    "static/media/music1.png": "/hari-portfolio/static/media/music1.06ed2d7cd688cf685525.png",
+    "static/media/tms.png": "/hari-portfolio/static/media/tms.bccf67092d86f2af8332.png",
+    "static/media/profilepic5.png": "/hari-portfolio/static/media/profilepic5.c4e84202fc664196527f.png",
+    "static/media/dam-monitoring.png": "/hari-portfolio/static/media/dam-monitoring.d0d3a5a78843f28612ca.png",
+    "static/media/fruitveg.jpg": "/hari-portfolio/static/media/fruitveg.1631b280c01ad3d0b000.jpg",
+    "static/media/about4.jpeg": "/hari-portfolio/static/media/about4.ace0bf005a38dc1858e1.jpeg",
+    "static/media/chess.jpeg": "/hari-portfolio/static/media/chess.b1f216b861d97976b3d7.jpeg",
+    "index.html": "/hari-portfolio/index.html",
+    "main.6b4cf97c.css.map": "/hari-portfolio/static/css/main.6b4cf97c.css.map",
+    "main.757e27a8.js.map": "/hari-portfolio/static/js/main.757e27a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b4cf97c.css",
+    "static/js/main.757e27a8.js"
+  ]
+}
