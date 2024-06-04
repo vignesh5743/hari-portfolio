@@ -43,7 +43,7 @@ const Hero = () => {
         </div>
         <div className="relative inline-flex group my-3">
             <div className="absolute transitiona-all duration-1000 opacity-70 -inset-px bg-gradient-to-r from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-lg group-hover:opacity-100 group-hover:-inset-1 group-hover:duration-200 animate-tilt"></div>
-                <a href="/Resume2_1.pdf" title="Download cv" role="button" class="w-[190x] h-[60px] relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white transition-all duration-200 bg-primary-color font-pj rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900">Download CV</a>
+                <a href="https://drive.google.com/file/d/1kFRAXbT1VFvUOBSV8H9iomTRQhgY8mcj/view?usp=sharing" title="Download cv" role="button" class="w-[190x] h-[60px] relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white transition-all duration-200 bg-primary-color font-pj rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900">Download CV</a>
         </div>
     </div>
 
