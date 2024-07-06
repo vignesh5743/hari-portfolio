@@ -16,7 +16,7 @@ const Timeline = () => {
             <p className='text-gray-500'>
             Mepco Schlenk Engineering College
             Sivakasi, TamilNadu.
-            CGPA: 7.57
+            CGPA: 7.66
             </p>
         </div>
 
